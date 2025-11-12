@@ -2,7 +2,7 @@
 Este proyecto fue desarrollado como parte de la Actividad Autónoma (AA U2T1) para la asignatura de Metaheurísticas. El objetivo principal no es solo aplicar librerías, sino construir la lógica interna de SA y TS para comprender y comparar sus mecanismos fundamentales de exploración y escape de óptimos locales.
 
 🛠️ Contenido del Repositorio
-El script principal metaheuristicas_ecuador.py incluye:
+El script principal AA3_rubendcasa.ipynb incluye:
 
 Definición del Problema: Un conjunto de 6 ciudades de Ecuador con coordenadas (x, y) simplificadas.
 
